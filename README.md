@@ -142,7 +142,7 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-ClawHub Community
+Emilio Petrozzi - https://www.mrtux.it
 
 ## Version
 
